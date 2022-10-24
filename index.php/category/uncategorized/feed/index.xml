@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Sample1</title>
+	<atom:link href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jericsaludo.github.io/wordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 05 Oct 2022 09:14:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Blog 4</title>
+		<link>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/</link>
+					<comments>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 09:13:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://jericsaludo.github.io/wordpress/?p=180</guid>
+
+					<description><![CDATA[Uncategorized Blog 2 Posted by admin on October 5, 2022 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh. Dictumst quisque sagittis purus sit amet volutpat [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="180" class="elementor elementor-180">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6bbbd007 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6bbbd007" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-603460f" data-id="603460f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30ec3332 elementor-widget__width-auto elementor-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon" data-id="30ec3332" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="icon icon-minus"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6cb83a15 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-terms" data-id="6cb83a15" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-terms.default">
+				<div class="elementor-widget-container">
+			<h6 class="press-elements-terms "><a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/">Uncategorized</a></h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-504e7263 de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-dt-post-title" data-id="504e7263" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="dt-post-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="dt-post-title ">Blog 4</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3aca94c1 elementor-widget-mobile__width-auto elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="3aca94c1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Posted by</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d8538c9 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-author" data-id="2d8538c9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-author.default">
+				<div class="elementor-widget-container">
+			<p class="detheme-kit-author "><a href="https://jericsaludo.github.io/wordpress/index.php/author/admin/" >admin</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7def05d0 elementor-widget-mobile__width-auto elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7def05d0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>on</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-79036e37 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-date" data-id="79036e37" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-date.default">
+				<div class="elementor-widget-container">
+			<p class="press-elements-date "><a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/" >October 5, 2022</a></p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b0b96e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b0b96e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e4035b7" data-id="4e4035b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e145452 elementor-drop-cap-yes elementor-drop-cap-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2e145452" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh.</p><p>Dictumst quisque sagittis purus sit amet volutpat consequat. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p><h5>How to Study Effectively at Home</h5><p>At quis risus sed vulputate odio. Justo nec ultrices dui sapien eget. Eget duis at tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus sit. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis leo vel fringilla est ullamcorper eget.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6ba7b375 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="6ba7b375" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://jericsaludo.github.io/wordpress/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Registration</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Account</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Enrollment</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-600f4618 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="600f4618" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Payment</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Video</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">eCourse</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-701b507 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="701b507" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Platform</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Learning</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Habits</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7174d31e de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-featured-image" data-id="7174d31e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-featured-image.default">
+				<div class="elementor-widget-container">
+			<div class="press-elements-featured-image "><img width="1508" height="2560" src="https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-scaled.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-scaled.jpg 1508w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-177x300.jpg 177w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-603x1024.jpg 603w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-768x1304.jpg 768w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-905x1536.jpg 905w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-merve-sahin-11161033-1207x2048.jpg 1207w" sizes="(max-width: 1508px) 100vw, 1508px" /></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7fb4519f de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7fb4519f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh.</p><p>Dictumst quisque sagittis purus sit amet volutpat consequat. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p><p>At quis risus sed vulputate odio. Justo nec ultrices dui sapien eget. Eget duis at tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus sit. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis leo vel fringilla est ullamcorper eget.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-11e1b40d" data-id="11e1b40d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-40f33c13 elementor-widget__width-auto elementor-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon" data-id="40f33c13" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="icon icon-minus"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-88864d2 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-heading" data-id="88864d2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h6 class="elementor-heading-title elementor-size-default">Latest Posts</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44a80dcd de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-elementskit-blog-posts" data-id="44a80dcd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div id="post-items--44a80dcd" class="row post-items">
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/">
+						Blog 4					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/">
+						Blog 3					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/">
+						Blog 2					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                </div>
+       </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog 3</title>
+		<link>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/</link>
+					<comments>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 09:13:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://jericsaludo.github.io/wordpress/?p=177</guid>
+
+					<description><![CDATA[Uncategorized Blog 2 Posted by admin on October 5, 2022 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh. Dictumst quisque sagittis purus sit amet volutpat [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="177" class="elementor elementor-177">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6bbbd007 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6bbbd007" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-603460f" data-id="603460f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30ec3332 elementor-widget__width-auto elementor-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon" data-id="30ec3332" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="icon icon-minus"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6cb83a15 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-terms" data-id="6cb83a15" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-terms.default">
+				<div class="elementor-widget-container">
+			<h6 class="press-elements-terms "><a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/">Uncategorized</a></h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-504e7263 de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-dt-post-title" data-id="504e7263" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="dt-post-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="dt-post-title ">Blog 3</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3aca94c1 elementor-widget-mobile__width-auto elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="3aca94c1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Posted by</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d8538c9 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-author" data-id="2d8538c9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-author.default">
+				<div class="elementor-widget-container">
+			<p class="detheme-kit-author "><a href="https://jericsaludo.github.io/wordpress/index.php/author/admin/" >admin</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7def05d0 elementor-widget-mobile__width-auto elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7def05d0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>on</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-79036e37 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-date" data-id="79036e37" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-date.default">
+				<div class="elementor-widget-container">
+			<p class="press-elements-date "><a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/" >October 5, 2022</a></p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b0b96e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b0b96e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e4035b7" data-id="4e4035b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e145452 elementor-drop-cap-yes elementor-drop-cap-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2e145452" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh.</p><p>Dictumst quisque sagittis purus sit amet volutpat consequat. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p><h5>How to Study Effectively at Home</h5><p>At quis risus sed vulputate odio. Justo nec ultrices dui sapien eget. Eget duis at tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus sit. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis leo vel fringilla est ullamcorper eget.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6ba7b375 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="6ba7b375" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Registration</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Account</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Enrollment</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-600f4618 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="600f4618" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Payment</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Video</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">eCourse</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-701b507 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="701b507" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Platform</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Learning</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Habits</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7174d31e de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-featured-image" data-id="7174d31e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-featured-image.default">
+				<div class="elementor-widget-container">
+			<div class="press-elements-featured-image "><img width="2048" height="2560" src="https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-scaled.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-scaled.jpg 2048w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-240x300.jpg 240w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-819x1024.jpg 819w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-768x960.jpg 768w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-1229x1536.jpg 1229w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-kevin-kleber-13004629-1638x2048.jpg 1638w" sizes="(max-width: 2048px) 100vw, 2048px" /></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7fb4519f de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7fb4519f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh.</p><p>Dictumst quisque sagittis purus sit amet volutpat consequat. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p><p>At quis risus sed vulputate odio. Justo nec ultrices dui sapien eget. Eget duis at tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus sit. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis leo vel fringilla est ullamcorper eget.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-11e1b40d" data-id="11e1b40d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-40f33c13 elementor-widget__width-auto elementor-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon" data-id="40f33c13" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="icon icon-minus"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-88864d2 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-heading" data-id="88864d2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Latest Posts</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44a80dcd de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-elementskit-blog-posts" data-id="44a80dcd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div id="post-items--44a80dcd" class="row post-items">
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/">
+						Blog 4					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/">
+						Blog 3					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/">
+						Blog 2					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                </div>
+       </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog 2</title>
+		<link>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/</link>
+					<comments>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 09:08:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://jericsaludo.github.io/wordpress/?p=170</guid>
+
+					<description><![CDATA[Uncategorized Blog 2 Posted by admin on October 5, 2022 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh. Dictumst quisque sagittis purus sit amet volutpat [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="170" class="elementor elementor-170">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6bbbd007 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6bbbd007" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-603460f" data-id="603460f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30ec3332 elementor-widget__width-auto elementor-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon" data-id="30ec3332" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="icon icon-minus"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6cb83a15 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-terms" data-id="6cb83a15" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-terms.default">
+				<div class="elementor-widget-container">
+			<h6 class="press-elements-terms "><a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/">Uncategorized</a></h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-504e7263 de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-dt-post-title" data-id="504e7263" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="dt-post-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="dt-post-title ">Blog 2</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3aca94c1 elementor-widget-mobile__width-auto elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="3aca94c1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Posted by</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d8538c9 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-author" data-id="2d8538c9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-author.default">
+				<div class="elementor-widget-container">
+			<p class="detheme-kit-author "><a href="https://jericsaludo.github.io/wordpress/index.php/author/admin/" >admin</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7def05d0 elementor-widget-mobile__width-auto elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7def05d0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>on</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-79036e37 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-date" data-id="79036e37" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-date.default">
+				<div class="elementor-widget-container">
+			<p class="press-elements-date "><a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/" >October 5, 2022</a></p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b0b96e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b0b96e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e4035b7" data-id="4e4035b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e145452 elementor-drop-cap-yes elementor-drop-cap-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2e145452" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh.</p><p>Dictumst quisque sagittis purus sit amet volutpat consequat. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p><h5>How to Study Effectively at Home</h5><p>At quis risus sed vulputate odio. Justo nec ultrices dui sapien eget. Eget duis at tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus sit. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis leo vel fringilla est ullamcorper eget.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6ba7b375 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="6ba7b375" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Registration</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Account</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Enrollment</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-600f4618 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="600f4618" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Payment</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Video</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">eCourse</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-701b507 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-icon-list--layout-traditional elementor-list-item-link-full_width de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon-list" data-id="701b507" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Platform</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Learning</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Habits</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7174d31e de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-post-featured-image" data-id="7174d31e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="post-featured-image.default">
+				<div class="elementor-widget-container">
+			<div class="press-elements-featured-image "><img width="1918" height="2560" src="https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-scaled.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-scaled.jpg 1918w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-225x300.jpg 225w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-767x1024.jpg 767w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-768x1025.jpg 768w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-1151x1536.jpg 1151w, https://jericsaludo.github.io/wordpress/wp-content/uploads/2022/10/pexels-anna-kozlova-10536336-1534x2048.jpg 1534w" sizes="(max-width: 1918px) 100vw, 1918px" /></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7fb4519f de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-text-editor" data-id="7fb4519f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel. Sit amet volutpat consequat mauris nunc. Vulputate dignissim suspendisse in est ante in nibh.</p><p>Dictumst quisque sagittis purus sit amet volutpat consequat. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum. Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p><p>At quis risus sed vulputate odio. Justo nec ultrices dui sapien eget. Eget duis at tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus sit. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis leo vel fringilla est ullamcorper eget.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-11e1b40d" data-id="11e1b40d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-40f33c13 elementor-widget__width-auto elementor-view-default de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-icon" data-id="40f33c13" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="icon icon-minus"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-88864d2 elementor-widget__width-auto de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-heading" data-id="88864d2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Latest Posts</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44a80dcd de_scroll_animation_no elementor-invisible elementor-widget elementor-widget-elementskit-blog-posts" data-id="44a80dcd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div id="post-items--44a80dcd" class="row post-items">
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-4/">
+						Blog 4					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-3/">
+						Blog 3					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-12 col-md-12">
+
+                                    <div class="elementskit-post-card">
+                        <div class="elementskit-entry-header">
+                            
+                            
+																				<h2 class="entry-title">
+					<a href="https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/">
+						Blog 2					</a>
+				</h2>
+			
+																	
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+
+										<i aria-hidden="true" class="icon icon-calendar3"></i>
+										<span class="meta-date-text">
+											October 5, 2022										</span>
+									</span>
+																																																																<span class="post-cat">
+
+										<i aria-hidden="true" class="icon icon-folder"></i>
+										<a href="https://jericsaludo.github.io/wordpress/index.php/category/uncategorized/" rel="category tag">Uncategorized</a>									</span>
+																													</div>
+													
+								
+																					</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																					                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                </div>
+       </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://jericsaludo.github.io/wordpress/index.php/2022/10/05/blog-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
